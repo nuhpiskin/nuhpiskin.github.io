@@ -7,10 +7,9 @@ toc: true
 tags:
     - regex
 ---
-ONNX is an intermediary machine learning framework used to convert between different machine learning frameworks. So let's say you're in TensorFlow, and you want to get to TensorRT, or you're in PyTorch, and you want to get to TFLite, or some other machine learning framework. ONNX is a really good intermediary to use to convert your model as you're going through these different machine learning frameworks.
-
-So ONNX has worked really hard to basically implement all kinds of different neural network functions and different functionalities in these machine learning models, so I can support  this cross functionality to have baseline, common framework to convert into.
+Open Neural Network Exchange(ONNX) is  a machine learning framework translation agent. This agent is used to convert different machine learning models to each other. Let's say you want to switch from pytorch to tensorflow or tensorrt and use your model with that framework. ONNX is a good agent to convert models. Because ONNX supports many frameworks. You can reach the supported frameworks from the [link](https://onnx.ai/supported-tools.html). There are multiple ways of model translation. But what makes ONNX important is that it supports more frameworks and supports many operators in frameworks. You can reach the supported operators from the [link](https://github.com/onnx/onnx/blob/master/docs/Operators.md).
 
 <!--more-->
 
-Yeah, certainly. I mean, one thing is that as ONNX (an open source tool) builds, they're building new functions into it. They're trying to keep track of all the new research that's being done in machine learning, but these versions can fall behind and you can, you know, have one version of TensorFlow, which is not compatible with one version of ONNX and you have to be upgrading and downgrading these versions to try to find the pathway through them all or maybe even editing your model.
+ONNX is 
+

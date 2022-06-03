@@ -13,14 +13,4 @@ Welcome! I am a Master Student in the [Department of Civil Engineering](https://
 Computer Vision Engineer at
 [Syntonym](https://syntonym.com/).
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+I have been working on data anonymization since 2019. My field of work is the development and deployment of detection, tracking, classification and generative algorithms. I mainly work on model and pipeline optimization in deployment processes. I have experienced the optimization of models and their implementation on different devices with tensorrt, onnx and ncnn frameworks. I also worked on mobile ai deployment processes. I worked on model compression in model development processes.
